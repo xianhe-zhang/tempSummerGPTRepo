@@ -9,5 +9,5 @@ pip install streamlit
 - In terminal go to the directory where you have the index.py file.
 - Run command
 ```
-streamlit run index.py
+streamlit run Home.py
 ```
